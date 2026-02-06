@@ -1,2 +1,9 @@
-# application_lab
-A personal application lab for developing and publishing AI-powered and utility applications.
+# 概要
+- このリポジトリは、アプリケーションの公開リポジトリです。
+- アプリケーションのソースコードに関しては、特に規約等はありません。自由に改造していただいて結構です。
+
+
+# アプリケーション
+## [1]: レシート画像から支出額を算出するアプリ
+    + ai_domestic_accounts_book_配布用を使用してください。
+    + ai_domestic_accounts_book_配布用\アプリ概要\アプリ概要.pptxに説明書が添付されています。

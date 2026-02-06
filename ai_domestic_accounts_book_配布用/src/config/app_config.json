@@ -1,0 +1,25 @@
+{
+    "APP_NAME": "ai_domestic_accounts_book",
+    "LOG_CONFIG": 
+    {
+        "ENABLE_OUTPUT_CONSOLE": true,
+        "OUTPUT_CONSOLE_LEVEL": "DEBUG",
+        "OUTPUT_CONSOLE_LEVEL_MEMO": "INFO, DEBUG, ERROR",
+        "ENABLE_FILE_SAVE": true,
+        "FILE_SAVE_LEVEL": "DEBUG",
+        "FILE_SAVE_LEVEL_MEMO": "INFO, DEBUG, ERROR",
+        "FILE_SAVE_PATH": "./logs"
+    },
+    "CLOUD_SYNC":
+    {
+        "ENABLE_CLOUD_RECEIPT_IMPORT": false,
+        "CLOUD_INBOX_PATH": "inboxのファイルパスを設定してください",
+        "CLOUD_PROCESSED_PATH": "processedのファイルパスを設定してください",
+        "CLOUD_ERROR_PATH": "errorのファイルパスを設定してください"
+    },
+    "MAIL": 
+    {
+        "ENABLE_SEND": false,
+        "MONTHLY_REPORT_SEND_DAY": 20
+    }
+}

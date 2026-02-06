@@ -1,0 +1,7 @@
+openai[azure]
+python-dotenv
+azure-ai-formrecognizer
+azure-core
+pillow
+pillow-heif
+matplotlib
